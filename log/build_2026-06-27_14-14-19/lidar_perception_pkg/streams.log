@@ -1,0 +1,21 @@
+[2.134s] Invoking command in '/home/ykk/ros2_ws/build/lidar_perception_pkg': PYTHONPATH=/home/ykk/ros2_ws/build/lidar_perception_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ykk/ros2_ws/install/lidar_perception_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ykk/ros2_ws/build/lidar_perception_pkg/build --no-deps symlink_data
+[2.467s] running develop
+[2.688s] running egg_info
+[2.688s] writing lidar_perception_pkg.egg-info/PKG-INFO
+[2.689s] writing dependency_links to lidar_perception_pkg.egg-info/dependency_links.txt
+[2.689s] writing entry points to lidar_perception_pkg.egg-info/entry_points.txt
+[2.689s] writing requirements to lidar_perception_pkg.egg-info/requires.txt
+[2.689s] writing top-level names to lidar_perception_pkg.egg-info/top_level.txt
+[2.691s] reading manifest file 'lidar_perception_pkg.egg-info/SOURCES.txt'
+[2.692s] writing manifest file 'lidar_perception_pkg.egg-info/SOURCES.txt'
+[2.694s] running build_ext
+[2.695s] Creating /home/ykk/ros2_ws/install/lidar_perception_pkg/lib/python3.10/site-packages/lidar-perception-pkg.egg-link (link to .)
+[2.696s] Installing lidar_obstacle_detector_node script to /home/ykk/ros2_ws/install/lidar_perception_pkg/lib/lidar_perception_pkg
+[2.696s] Installing lidar_processor_node script to /home/ykk/ros2_ws/install/lidar_perception_pkg/lib/lidar_perception_pkg
+[2.696s] Installing lidar_publisher_node script to /home/ykk/ros2_ws/install/lidar_perception_pkg/lib/lidar_perception_pkg
+[2.696s] Installing parking_perception_node script to /home/ykk/ros2_ws/install/lidar_perception_pkg/lib/lidar_perception_pkg
+[2.697s] Installing parking_visualization_node script to /home/ykk/ros2_ws/install/lidar_perception_pkg/lib/lidar_perception_pkg
+[2.697s] 
+[2.697s] Installed /home/ykk/ros2_ws/build/lidar_perception_pkg
+[2.697s] running symlink_data
+[2.738s] Invoked command in '/home/ykk/ros2_ws/build/lidar_perception_pkg' returned '0': PYTHONPATH=/home/ykk/ros2_ws/build/lidar_perception_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ykk/ros2_ws/install/lidar_perception_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ykk/ros2_ws/build/lidar_perception_pkg/build --no-deps symlink_data

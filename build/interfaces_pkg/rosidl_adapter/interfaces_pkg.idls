@@ -1,0 +1,17 @@
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/Point2D.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/Vector2.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/Pose2D.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/BoundingBox2D.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/BoundingBox3D.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/Mask.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/KeyPoint2D.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/KeyPoint2DArray.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/KeyPoint3D.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/KeyPoint3DArray.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/Detection.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/DetectionArray.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/LaneInfo.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/LaneTrajectory.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/MotionCommand.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/TargetPoint.idl
+/home/ykk/ros2_ws/build/interfaces_pkg/rosidl_adapter/interfaces_pkg:msg/PathPlanningResult.idl

@@ -1,0 +1,23 @@
+[1.646s] Invoking command in '/home/ykk/ros2_ws/build/decision_making_pkg': PYTHONPATH=/home/ykk/ros2_ws/build/decision_making_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ykk/ros2_ws/install/decision_making_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ykk/ros2_ws/build/decision_making_pkg/build --no-deps symlink_data
+[2.039s] running develop
+[2.211s] running egg_info
+[2.212s] writing decision_making_pkg.egg-info/PKG-INFO
+[2.212s] writing dependency_links to decision_making_pkg.egg-info/dependency_links.txt
+[2.212s] writing entry points to decision_making_pkg.egg-info/entry_points.txt
+[2.212s] writing requirements to decision_making_pkg.egg-info/requires.txt
+[2.213s] writing top-level names to decision_making_pkg.egg-info/top_level.txt
+[2.214s] reading manifest file 'decision_making_pkg.egg-info/SOURCES.txt'
+[2.215s] writing manifest file 'decision_making_pkg.egg-info/SOURCES.txt'
+[2.217s] running build_ext
+[2.217s] Creating /home/ykk/ros2_ws/install/decision_making_pkg/lib/python3.10/site-packages/decision-making-pkg.egg-link (link to .)
+[2.218s] Installing motion_planner_node script to /home/ykk/ros2_ws/install/decision_making_pkg/lib/decision_making_pkg
+[2.218s] Installing obstacle_mission_controller_node script to /home/ykk/ros2_ws/install/decision_making_pkg/lib/decision_making_pkg
+[2.218s] Installing parking_control_node script to /home/ykk/ros2_ws/install/decision_making_pkg/lib/decision_making_pkg
+[2.219s] Installing path_planner_node script to /home/ykk/ros2_ws/install/decision_making_pkg/lib/decision_making_pkg
+[2.219s] Installing stanley_controller_node script to /home/ykk/ros2_ws/install/decision_making_pkg/lib/decision_making_pkg
+[2.219s] Installing test_node script to /home/ykk/ros2_ws/install/decision_making_pkg/lib/decision_making_pkg
+[2.219s] Installing test_node_2 script to /home/ykk/ros2_ws/install/decision_making_pkg/lib/decision_making_pkg
+[2.219s] 
+[2.219s] Installed /home/ykk/ros2_ws/build/decision_making_pkg
+[2.220s] running symlink_data
+[2.261s] Invoked command in '/home/ykk/ros2_ws/build/decision_making_pkg' returned '0': PYTHONPATH=/home/ykk/ros2_ws/build/decision_making_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ykk/ros2_ws/install/decision_making_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ykk/ros2_ws/build/decision_making_pkg/build --no-deps symlink_data
